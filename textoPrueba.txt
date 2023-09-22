@@ -1,0 +1,10 @@
+Inicio
+Leer a
+Leer b
+Si a > b
+Proceso a + 5
+Contrario
+Proceso a - 5
+Finsi
+Imprimir a
+Fin
